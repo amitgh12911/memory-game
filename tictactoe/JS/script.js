@@ -1,4 +1,4 @@
-let characters = ["A", "B", "C", "D", "E", "F", "G", "H", "I"];
+let characters = ["😂", "🤩", "😎", "😝", "😮", "😜", "🤑", "🫡", "🙂"];
 let inserted = [];
 let initialInsertedLength = inserted.length;
 let mainContainer = document.querySelector(".main-container");
